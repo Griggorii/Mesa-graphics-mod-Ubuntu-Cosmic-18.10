@@ -23,6 +23,8 @@ Run sh
 
 ./Setting_dconf_linux_OS20.04_V9_By_Griggorii_Wayland_adaptation.sh
 
+OS8.0 https://github.com/Griggorii/Linux-OS8.0-X64-18.10
+
 
 
 
