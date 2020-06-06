@@ -25,6 +25,8 @@ Run sh
 
 OS8.0 https://github.com/Griggorii/Linux-OS8.0-X64-18.10
 
+Имеется тот же исходный код который собирался ранее под ubuntu 19.04 и 20.04
+
 
 
 
