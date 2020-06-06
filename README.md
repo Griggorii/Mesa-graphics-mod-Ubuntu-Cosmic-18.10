@@ -15,17 +15,17 @@ sudo tar xvpf mesa-18.2.8-0ubuntu0.tar.xz-C /
 
 Mesa fast wayland +25% speed
 
-Optional Setting_dconf_linux gnome , budgie , cinnamon
+Optional Setting_dconf_linux gnome , budgie , cinnamon install dconf-editor:
 
-chmod -R a+rwx chmod -R a+rwx Setting_dconf_linux_OS20.04_V9_By_Griggorii_Wayland_adaptation.sh
+Run sh script setting install command:
 
-Run sh
+chmod -R a+rwx Setting_dconf_linux_OS20.04_V9_By_Griggorii_Wayland_adaptation.sh
 
 ./Setting_dconf_linux_OS20.04_V9_By_Griggorii_Wayland_adaptation.sh
 
-OS8.0 https://github.com/Griggorii/Linux-OS8.0-X64-18.10
+Example modification ubuntu OS8.0 https://github.com/Griggorii/Linux-OS8.0-X64-18.10
 
-Имеется тот же исходный код который собирался ранее под ubuntu 19.04 и 20.04
+Имеется тот же исходный код mesa который собирался ранее под ubuntu 19.04 и 20.04
 
 
 
