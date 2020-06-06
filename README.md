@@ -13,7 +13,7 @@ cd Mesa-graphics-mod-Ubuntu-Cosmic-18.10
 
 sudo tar xvpf mesa-18.2.8-0ubuntu0.tar.xz-C /
 
-Mesa fast wayland +25% speed not crash
+Mesa fast wayland +25% speed
 
 Optional Setting_dconf_linux gnome , budgie , cinnamon
 
