@@ -11,7 +11,7 @@ $ git clone https://github.com/Griggorii/Mesa-graphics-mod-Ubuntu-Cosmic-18.10.g
 
 $ cd Mesa-graphics-mod-Ubuntu-Cosmic-18.10
 
-$ sudo tar xvpf mesa-18.2.8-0ubuntu0.tar.xz-C /
+$ sudo tar xvpf mesa-18.2.8-0ubuntu0.tar.xz -C /
 
 Mesa fast wayland +25% speed
 
